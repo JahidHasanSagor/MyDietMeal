@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317318369099",
+    "firebase_url": "https://mydietmeal-45d9e-default-rtdb.firebaseio.com",
+    "project_id": "mydietmeal-45d9e",
+    "storage_bucket": "mydietmeal-45d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317318369099:android:d9ecc4dee1494f0094e2ce",
+        "android_client_info": {
+          "package_name": "com.bakikhata.mydietmealpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317318369099-rcul4vi25ldvj9tglu68ok9vsjv08l8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bakikhata.mydietmealpro",
+            "certificate_hash": "48f8f0a6b14d04450be74460072eac4187ab9af7"
+          }
+        },
+        {
+          "client_id": "317318369099-7cdge7d514cugt22crmqv6hlgmn8alc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByq56PdBafI_Jl5IZNc0ikCVze_E3p_to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317318369099-7cdge7d514cugt22crmqv6hlgmn8alc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
